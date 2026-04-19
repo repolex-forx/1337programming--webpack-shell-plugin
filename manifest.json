@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "1337programming",
+  "repo": "webpack-shell-plugin",
+  "versions": [
+    {
+      "commit": "99d0902cf30828110b1161ba15b2304bfecaa2d4",
+      "parsed_at": "2026-04-19T20:50:40.829955+00:00",
+      "tag": "0.3.2",
+      "filetree": "filetree/99d0902cf30828110b1161ba15b2304bfecaa2d4.nq.gz",
+      "blobs": [
+        "blob/4db0c2c86ba5a74e5b84156fca9af91ea5caba61.nq.gz",
+        "blob/2e94e1a030d819857b1bfb10611a3f721cc953a8.nq.gz",
+        "blob/813fbdeaa200067f4b703c432c5e85bc11ca3e73.nq.gz",
+        "blob/7c787c613e95097084abf68182301d68277b62d3.nq.gz",
+        "blob/4b66f4ca63d6634e1c3a0530cc618771373c1e6c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
